@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(148, 155, 179);
+}
+
+.bredde {
+    width: 50px;
+    text-align: center;
+
+}
+
+.hoyde {
+    height: 50px;
+}
+
+.bord {
+    border-radius: 16px;
+    background-color: white;
+    
+}
+
+.knappen {
+    border-radius: 8px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.knappen:hover {
+    background-color: teal;
+}
